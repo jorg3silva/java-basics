@@ -11,7 +11,7 @@ import lombok.Setter;
 @Builder
 @Setter
 @Getter
-public class Users {
+public class User {
     private String name;
     private Integer age;
 }
